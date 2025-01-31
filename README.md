@@ -1,6 +1,6 @@
 ![logo](https://github.com/sameersiddique987/sameersiddique987/blob/main/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm sameer siddique</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A PASSIONATED SOFTWARE ENGINEER!</h3>
 
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
